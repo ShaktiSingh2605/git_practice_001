@@ -4,9 +4,9 @@ let str="naman"
 	bag+=str[i];
  }
   if(str==bag){
-	console.log("pailendrome");
+	console.log("It is a Pailendrome");
   } else{
-        console.log("not pailendrome");
+        console.log("It is not a pailendrome");
   }
 
 	
