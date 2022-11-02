@@ -1,12 +1,12 @@
 let num=8;
-let count=0;
-for(let i=i;i<=num;i++){
+let factor=0;
+for(let i=1;i<=num;i++){
 	if(num%i){
 	count++;
 	}
 }
 if(count==2){
- console.log("prime");
+ console.log("No is Prime");
 } else{
-	console.log("not prime");
+	console.log("No is Not Prime");
 }
